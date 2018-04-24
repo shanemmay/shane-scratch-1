@@ -1,0 +1,29 @@
+Please note that these credentials are not permanent.
+Heroku rotates credentials periodically and updates applications where this database is attached.
+
+Host ec2-23-23-247-222.compute-1.amazonaws.com
+Database dc7litgkgtljmq
+User rbeswietipybml
+Port 5432
+Password 17b4a45ed3ef3225b7c2071469aafb26ebafbdbb559a86f2408722ebca96a173
+URI postgres://rbeswietipybml:17b4a45ed3ef3225b7c2071469aafb26ebafbdbb559a86f2408722ebca96a173@ec2-23-23-247-222.compute-1.amazonaws.com:5432/dc7litgkgtljmq
+Heroku CLI heroku pg:psql postgresql-dimensional-47868 --app shane-scratch-1
+
+
+/******go daddy*******/
+Username: shanemarvinmay
+Email: shanemarvinmay@hotmail.com
+Password: ShaneMay1!
+
+May-gunlogson.com site info (cpanel)
+Username: shanemmay
+Password: Shane1993!
+Website(s) IP Address 107.180.25.211
+
+FTP account info
+Username shane (shane@may-gunlogson.com)
+Password Shane1993!
+
+database : users
+user : maygunlogson
+
